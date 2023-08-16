@@ -1,21 +1,3 @@
-# HOLA
-## HOLA
-### HOLA
-# :revolving_hearts:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # &nbsp; &nbsp; &nbsp; :red_circle: :red_circle: Hola! Soy Nicolás :red_circle: :red_circle: &nbsp; &nbsp; &nbsp;
 
 ## :small_red_triangle: Desarrollador Python & Django :small_red_triangle:
