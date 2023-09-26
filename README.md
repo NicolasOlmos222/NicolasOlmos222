@@ -5,9 +5,7 @@
 ## Información de Contacto
 
 - **Correo Electrónico:** nicolas0olmos@gmail.com
-- **Teléfono:** (+54) 9 3564 56-1719 
 - **LinkedIn:** [linkedin.com/Nicolás-ol](https://www.linkedin.com/in/Nicolás-ol/)
-- **GitHub:** [github.com/NicolasOlmos222](https://github.com/NicolasOlmos222)
 
 ## Resumen
 
